@@ -1,0 +1,8 @@
+[package]
+name = "camera_project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+iced = { version = "0.14", features = ["canvas", "markdown"] }
+iced_draggable_tabs = "0.1.1"
